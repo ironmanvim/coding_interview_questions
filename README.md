@@ -1,2 +1,2 @@
 # coding_interview_questions
-Coding interview questions
+This repo contains coding interview questions and solutions
